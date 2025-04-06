@@ -13,16 +13,16 @@
 				"foreground": "#ffffff"
 			}
 		},*/
-		{
+		/*{
 			"scope": "source",
 			"settings": {
 				"foreground": "#ccddee"
 			}
-		},
+		},*/
 		{
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#a190ee"
+				"foreground": "#ac9cf3"
 			}
 		},
 		{
@@ -42,7 +42,7 @@
 		{
 			"scope": "storage, support.type, support.class, entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution, entity.other.inherited-class, entity.other.attribute-name",
 			"settings": {
-				"foreground": "#cc9bc6",
+				"foreground": "#ca8ec3",
 				"fontStyle": ""
 			}
 		},
@@ -64,7 +64,7 @@
 		{
 			"scope": "variable, support.other.variable, support.type.property-name, support.type.vendored.property-name, string.other.link, string.regexp, declaration.tag",
 			"settings": {
-				"foreground": "#ddaea8"
+				"foreground": "#d3ae84"
 			}
 		},
 		{
@@ -79,7 +79,7 @@
 			/*"scope": "string, constant.other.symbol, entity.other.inherited-class, markup.heading",*/
 			"scope": "string, markup.list",
 			"settings": {
-				"foreground": "#bbee99",
+				"foreground": "#bddda7",
 				"fontStyle": ""
 			}
 		},
